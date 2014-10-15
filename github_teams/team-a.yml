@@ -1,0 +1,7 @@
+---
+permission: push
+members:
+- jane.doe
+- jane.kowalski
+repos:
+- sample-repo

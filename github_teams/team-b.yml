@@ -1,0 +1,6 @@
+---
+permission: push
+members:
+- john.doe
+repos:
+- another-sample-repo
