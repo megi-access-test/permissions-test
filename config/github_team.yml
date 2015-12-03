@@ -1,0 +1,13 @@
+---
+permission:
+  required: true
+  default_value:
+  value_type: string
+members:
+  required: true
+  default_value:
+  value_type: array
+repos:
+  required: true
+  default_value:
+  value_type: array
