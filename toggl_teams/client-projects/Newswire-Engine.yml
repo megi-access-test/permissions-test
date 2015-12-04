@@ -1,0 +1,17 @@
+---
+name: Newswire-Engine
+members:
+- magdalena.nowak
+- krzysztof.urban
+- wojciech.strych
+- maciej.kalisz
+- marek.lukaszek
+projects:
+- Newswire-Engine
+tasks:
+  - call
+  - weekly call
+  - code review
+  - kickoff
+  - pm
+  - qa
