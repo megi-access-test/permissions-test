@@ -1,0 +1,14 @@
+---
+display_name: Openbooks_test
+description:
+slack_project_channel_name: project-openbooks_test
+slack_client_channel_name: client-openbooks_test
+project_email: openbooks-team_test@example.pl
+people_project_name: openbooks_test
+pivotal_project_name:
+jira_project_name: OpenBooks_test
+github_teams:
+  - openbooks_test
+rollbar_teams:
+  - openbooks_test
+toggl_teams:

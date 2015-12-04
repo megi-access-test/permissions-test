@@ -1,0 +1,13 @@
+---
+display_name: Access App_test
+description: Netguru internal app for managing various accesses
+slack_project_channel_name: project-access_test
+slack_client_channel_name: project-access_test
+project_email: access_app_test@example.com
+github_teams:
+  - access_app_test
+google_groups:
+  - accessguru-team_test
+members:
+  - marcin.siepetowski.test
+  - maciej.kalisz.test
