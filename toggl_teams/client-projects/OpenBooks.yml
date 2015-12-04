@@ -1,18 +1,18 @@
 ---
-name: OpenBooks
+name: OpenBooks_test
 members:
-- witold.krawczyk
-- magdalena.nowak
-- michal.kulesza
-- dawid.jaskot
-- magdalena.zdrojewska
-- pavel.averin
+- wit.kraw
+- mag.nowa
+- mic.kule
+- daw.jask
+- mag.zdro
+- pav.aver
 projects:
-- OpenBooks
+- OpenBooks_test
 tasks:
-  - call
-  - weekly call
-  - code review
-  - kickoff
-  - pm
-  - qa
+  - call_test
+  - weekly call_test
+  - code review_test
+  - kickoff_test
+  - pm_test
+  - qa_test
