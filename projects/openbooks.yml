@@ -12,3 +12,5 @@ github_teams:
 rollbar_teams:
   - openbooks_test
 toggl_teams:
+members:
+  - andrzej.nowak
