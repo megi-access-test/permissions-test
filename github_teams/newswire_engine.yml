@@ -1,0 +1,9 @@
+---
+members:
+- krzysztof.urban
+- maciej.kalisz
+- magdalena.nowak
+- marek.lukaszek
+permission: push
+repos:
+- newswire_engine

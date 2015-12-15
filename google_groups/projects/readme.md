@@ -1,4 +1,4 @@
-### sample projects/google_group.yml
+### sample projects/google_group-team.yml
 Keys and values must be ordered a-z.
 ```
 aliases:                  # optional

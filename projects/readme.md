@@ -1,9 +1,7 @@
 ### sample project.yml
 This is the starting point for data_guru-api. Members modified here are modified accordingly in the integration files, which are created with the names given here. Integration files are the ones in `github_teams/`, `google_groups/projects/`, `rollbar_teams/`, `toggl_teams/`.  
   
-_Sidenotes_:
-  1. Mind [the exceptional `-team` suffix for `google_group-team`](https://github.com/netguru/permissions/blob/master/google_groups/projects/readme.md#sample-projectsgoogle_group-teamyml).
-  2. For Slack channel names, prefixes `-client` and `-project` accordingly are mandatory.
+_Sidenote_: For Slack channel names, prefixes `client-` and `project-` accordingly are mandatory.  
   
 Keys and values must be ordered a-z.
 ```

@@ -1,0 +1,6 @@
+---
+members:
+- external/amir.nada
+permission: push
+repos:
+- airnugget

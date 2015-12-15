@@ -1,0 +1,7 @@
+---
+members:
+- external/dan.keegan
+permission: admin
+repos:
+- benchify
+- pinteresting

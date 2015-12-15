@@ -1,0 +1,6 @@
+---
+emails:
+- core@netguru.co
+- core@netguru.pl
+external: true
+name: Core

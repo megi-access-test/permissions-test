@@ -1,14 +1,12 @@
 ---
-display_name: Newswireengine_test
 description:
-slack_project_channel_name: project-newswireengine_test
-slack_client_channel_name: client-newswireengine_test
-project_email: newswireengine-team_test@example.pl
-people_project_name: newswireengine_test
+display_name: Newswireengine
+github_teams: [newswireengine]
+jira_project_name: NW board
+people_project_name: newswireengine
 pivotal_project_name:
-jira_project_name: NW board_test
-github_teams:
-  - newswireengine_test
-rollbar_teams:
-  - newswireengine_test
+project_email: newswireengine-team@netguru.pl
+rollbar_teams: [newswireengine]
+slack_client_channel_name: client-newswireengine
+slack_project_channel_name: project-newswireengine
 toggl_teams:

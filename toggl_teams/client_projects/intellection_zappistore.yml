@@ -1,0 +1,18 @@
+---
+members:
+- dominik.wojciechowski
+- grzegorz.unijewski
+- jacek.adamek
+- kacper.golinski
+- kinga.hankiewicz
+- magdalena.bogdal
+- magdalena.sitarek
+- pawel.rusicki
+- rafal.gawlik
+- sebastian.brych
+name: Intellection ZappiStore
+projects:
+- Intellection ZappiStore
+tasks:
+- bugbash
+- call

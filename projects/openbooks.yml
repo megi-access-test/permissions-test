@@ -1,18 +1,14 @@
 ---
-display_name: Openbooks_test
 description:
-slack_project_channel_name: project-openbooks_test
-slack_client_channel_name: client-openbooks_test
-project_email: openbooks-team_test@example.pl
-people_project_name: openbooks_test
-pivotal_project_name:
-jira_project_name: OpenBooks_test
+display_name: Openbooks
 github_teams:
-  - openbooks_test
+- openbooks
+jira_project_name: OpenBooks
+people_project_name: openbooks
+pivotal_project_name:
+project_email: openbooks-team@netguru.pl
 rollbar_teams:
-  - openbooks_test
+- openbooks
+slack_client_channel_name: client-openbooks
+slack_project_channel_name: project-openbooks
 toggl_teams:
-members:
-  - andrzej.nowak
-  - lysy.kunt
-  - andy.cena

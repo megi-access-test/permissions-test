@@ -1,0 +1,16 @@
+---
+members:
+- aleksander.popko
+- anna.hellwing
+- krzysztof.jackowski
+- marcin.piesiak
+- marcin.siemaszko
+- michael.karwowski
+- michal.skolimowski
+- radoslaw.szeja
+name: SUMO Heavy
+projects:
+- SUMO Heavy
+tasks:
+- bugbash
+- call
