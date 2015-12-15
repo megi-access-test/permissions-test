@@ -1,21 +1,21 @@
 ---
-name:
-  required: true
-  default_value:
-  value_type: string
 emails:
-  required: true
   default_value: []
-  value_type: array
-github:
   required: true
+  value_type: array
+external:
+  default_value: false
+  required: true
+  value_type: boolean
+github:
   default_value:
+  required: true
+  value_type: string
+name:
+  default_value:
+  required: true
   value_type: string
 public_key:
-  required: true
   default_value:
-  value_type: string
-external:
   required: true
-  default_value: false
-  value_type: boolean
+  value_type: string

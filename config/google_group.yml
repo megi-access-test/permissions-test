@@ -1,21 +1,25 @@
 ---
-members:
-  required: true
-  default_value:
-  value_type: array
 aliases:
-  required: false
   default_value:
+  required: false
   value_type: array
-domain_membership:
-  required: false
-  default_value: false
-  value_type: boolean
-private:
-  required: false
-  default_value: false
-  value_type: boolean
 archive:
-  required: false
   default_value: true
+  required: false
+  value_type: boolean
+domain_membership:
+  default_value: false
+  required: false
+  value_type: boolean
+members:
+  default_value:
+  required: true
+  value_type: array
+name:
+  default_value:
+  required: true
+  value_type: string
+private:
+  default_value: false
+  required: false
   value_type: boolean

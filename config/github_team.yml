@@ -1,13 +1,17 @@
 ---
-permission:
-  required: true
-  default_value:
-  value_type: string
 members:
-  required: true
   default_value:
+  required: true
   value_type: array
-repos:
-  required: true
+name:
   default_value:
+  required: true
+  value_type: string
+permission:
+  default_value:
+  required: true
+  value_type: string
+repos:
+  default_value:
+  required: true
   value_type: array
