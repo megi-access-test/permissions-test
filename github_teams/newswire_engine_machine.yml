@@ -1,0 +1,6 @@
+---
+permission: pull
+members:
+- netguru_fake_users/newswire.engine.machine
+repos:
+- newswire-engine
