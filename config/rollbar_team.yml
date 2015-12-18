@@ -1,7 +1,7 @@
 ---
 members:
   required: true
-  default_value:
+  default_value: []
   value_type: array
 name:
   required: true
@@ -9,5 +9,5 @@ name:
   value_type: string
 projects:
   required: true
-  default_value:
+  default_value: []
   value_type: array

@@ -1,6 +1,6 @@
 ---
 aliases:
-  default_value:
+  default_value: []
   required: false
   value_type: array
 archive:
@@ -12,7 +12,7 @@ domain_membership:
   required: false
   value_type: boolean
 members:
-  default_value:
+  default_value: []
   required: true
   value_type: array
 name:

@@ -1,6 +1,6 @@
 ---
 members:
-  default_value:
+  default_value: []
   required: true
   value_type: array
 name:
@@ -12,6 +12,6 @@ permission:
   required: true
   value_type: string
 repos:
-  default_value:
+  default_value: []
   required: true
   value_type: array
