@@ -8,12 +8,12 @@ display_name:
   required: true
   value_type: string
 github_teams:
-  default_value:
-  required: false
+  default_value: []
+  required: true
   value_type: array
 google_groups:
-  default_value:
-  required: false
+  default_value: []
+  required: true
   value_type: array
 jira_project_name:
   default_value:
@@ -35,6 +35,10 @@ project_email:
   default_value:
   required: true
   value_type: string
+rollbar_teams:
+  default_value: []
+  required: true
+  value_type: array
 slack_client_channel_name:
   default_value:
   required: false
@@ -43,3 +47,7 @@ slack_project_channel_name:
   default_value:
   required: true
   value_type: string
+toggl_teams:
+  default_value: []
+  required: true
+  value_type: array
