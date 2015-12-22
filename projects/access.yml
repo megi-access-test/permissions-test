@@ -6,8 +6,9 @@ google_groups: [accessguru]
 members:
 - external/miguel.escobar
 - external/scarface
+- external/vito.corleone
 - maciej.kalisz
-- stefan.batory
+- krolowa.bona
 project_email: accessguru-team@netguru.pl
 rollbar_teams: [access_rollbar]
 slack_client_channel_name: project-access
