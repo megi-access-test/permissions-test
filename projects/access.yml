@@ -8,5 +8,6 @@ members:
 - marcin.siepetowski
 - andrzej.kolarski
 project_email: accessguru-team@netguru.pl
+rollbar_teams: [access_rollbar]
 slack_client_channel_name: project-access
 slack_project_channel_name: project-access
