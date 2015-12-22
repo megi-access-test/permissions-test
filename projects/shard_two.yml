@@ -1,0 +1,10 @@
+---
+display_name: The Shard
+github_teams: [shard]
+google_groups: [shard_group]
+members: [andrzej.tag, michal.puzon]
+people_project_name:
+project_email:
+rollbar_teams: [shard_bill]
+slack_project_channel_name:
+toggl_teams: [shard_toggl]
