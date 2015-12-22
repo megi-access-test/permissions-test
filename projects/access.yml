@@ -6,7 +6,7 @@ google_groups: [accessguru]
 members:
 - maciej.kalisz
 - marcin.siepetowski
-- andrzej.kola
+- andrzej.kolarski
 project_email: accessguru-team@netguru.pl
 slack_client_channel_name: project-access
 slack_project_channel_name: project-access
