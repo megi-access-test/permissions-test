@@ -4,10 +4,10 @@ display_name: Access App
 github_teams: [access]
 google_groups: [accessguru]
 members:
-- andrzej.michalczak
 - external/miguel.escobar
+- external/hugo.chavez
 - maciej.kalisz
-- marta.kowalska
+- ireneusz.twardowski
 project_email: accessguru-team@netguru.pl
 rollbar_teams: [access_rollbar]
 slack_client_channel_name: project-access
