@@ -5,9 +5,9 @@ github_teams: [access]
 google_groups: [accessguru]
 members:
 - external/miguel.escobar
-- external/hugo.chavez
+- external/scarface
 - maciej.kalisz
-- ireneusz.twardowski
+- stefan.batory
 project_email: accessguru-team@netguru.pl
 rollbar_teams: [access_rollbar]
 slack_client_channel_name: project-access
