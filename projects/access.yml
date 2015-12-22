@@ -3,7 +3,10 @@ description: Netguru internal app for managing various accesses
 display_name: Access App
 github_teams: [access]
 google_groups: [accessguru]
-members: [maciej.kalisz, marcin.siepetowski]
+members:
+- maciej.kalisz
+- marcin.siepetowski
+- andrzej.kolano
 project_email: accessguru-team@netguru.pl
 slack_client_channel_name: project-access
 slack_project_channel_name: project-access
