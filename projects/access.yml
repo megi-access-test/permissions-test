@@ -5,7 +5,7 @@ github_teams: [access]
 google_groups: [accessguru]
 members:
 - maciej.kalisz
-- marcin.siepetowski
+- andrzej.michalczak
 project_email: accessguru-team@netguru.pl
 rollbar_teams: [access_rollbar]
 slack_client_channel_name: project-access
