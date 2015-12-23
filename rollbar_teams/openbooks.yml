@@ -1,11 +1,6 @@
 ---
 members:
-- external/jakub.bilko
-- external/janek.zaremba
-- external/maria.syczewska
-- magdalena.zdrojewska
-- michal.kulesza
-- witold.krawczyk
+- rock.johnson
 name: openbooks team
 projects:
 - openbooks
