@@ -7,7 +7,7 @@ members:
 - external/scarface
 - external/vito.corleone
 - external/ingmar.bergman
-- krolowa.bona
+- henryk.osmy
 - swiety.mikolaj
 project_email: accessguru-team@netguru.pl
 rollbar_teams: [access_rollbar]
