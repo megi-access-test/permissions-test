@@ -3,6 +3,9 @@ description:
 display_name: Newswireengine
 github_teams: [newswireengine]
 jira_project_name: NW board
+members:
+- al.capone
+- nick.fianculli
 people_project_name: newswireengine
 pivotal_project_name:
 project_email: newswireengine-team@netguru.pl

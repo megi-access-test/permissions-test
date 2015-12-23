@@ -4,6 +4,7 @@ display_name: Openbooks
 github_teams:
 - openbooks
 jira_project_name: OpenBooks
+members: [rock.johnson]
 people_project_name: openbooks
 pivotal_project_name:
 project_email: openbooks-team@netguru.pl

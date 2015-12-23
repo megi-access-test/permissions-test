@@ -1,0 +1,13 @@
+---
+display_name:
+github_teams: [das_experiment]
+google_groups: [das_experiment_group]
+members:
+- external/barack.obama
+- johannes.engelman
+- franz.kafka
+people_project_name:
+project_email:
+rollbar_teams: [das_experiment_rb]
+slack_project_channel_name:
+toggl_teams: [das_experiment_toggl]
