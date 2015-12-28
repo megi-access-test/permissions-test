@@ -3,8 +3,9 @@ display_name:
 github_teams: [das_experiment]
 google_groups: [das_experiment_group]
 members:
+- adam.nowak
 - external/barack.obama
-- johannes.engelman
+- external/john.doe
 - franz.kafka
 people_project_name:
 project_email:
