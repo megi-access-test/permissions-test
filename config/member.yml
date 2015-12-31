@@ -19,3 +19,7 @@ public_key:
   default_value:
   required: true
   value_type: string
+aliases:
+  default_value: []
+  required: true
+  value_type: array
