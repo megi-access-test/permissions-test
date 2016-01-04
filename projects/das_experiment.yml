@@ -6,7 +6,7 @@ members:
 - adam.nowak
 - external/barack.obama
 - external/john.doe
-- w.a.mozart
+- wolfgang.a.mozart
 people_project_name:
 project_email:
 rollbar_teams: [das_experiment_rb]
