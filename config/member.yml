@@ -1,4 +1,8 @@
 ---
+aliases:
+  default_value: []
+  required: true
+  value_type: array
 emails:
   default_value: []
   required: true
@@ -19,7 +23,3 @@ public_key:
   default_value:
   required: true
   value_type: string
-aliases:
-  default_value: []
-  required: true
-  value_type: array
