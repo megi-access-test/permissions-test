@@ -1,0 +1,8 @@
+---
+members:
+  - magdalena.gumularz
+name: admins
+permission: admin
+repos:
+  - pap_admin
+  - permissions-test
