@@ -1,0 +1,7 @@
+---
+members:
+  - magdalena.gumularz
+name: another_team
+permission: push
+repos:
+  - just_another_repo
