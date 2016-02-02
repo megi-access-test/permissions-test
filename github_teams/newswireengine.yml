@@ -2,7 +2,7 @@
 members:
 - al.capone
 - nick.fianculli
-name:
-permission:
+name: newswireengine
+permission: push
 repos:
   - test

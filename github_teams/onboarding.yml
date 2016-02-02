@@ -2,5 +2,6 @@
 members:
 - tomasz.pewinski
 permission: push
+name: onboarding
 repos:
 - onboarding

@@ -2,7 +2,7 @@
 members:
 - andrzej.tag
 - michal.puzon
-name:
-permission:
+name: shard
+permission: push
 repos:
   - test

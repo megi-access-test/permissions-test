@@ -1,7 +1,7 @@
 ---
 members:
 - rock.johnson
-name:
-permission:
+name: openbooks
+permission: push
 repos:
   - test

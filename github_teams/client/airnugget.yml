@@ -2,5 +2,6 @@
 members:
 - external/amir.nada
 permission: push
+name: airnugget
 repos:
 - airnugget

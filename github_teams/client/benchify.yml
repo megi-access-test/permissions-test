@@ -2,6 +2,7 @@
 members:
 - external/dan.keegan
 permission: admin
+name: benchify
 repos:
 - benchify
 - pinteresting
