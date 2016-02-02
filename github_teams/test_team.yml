@@ -3,4 +3,5 @@ members:
   - magdalena.gumularz
 name: test_team
 permission: push
-repos: just_a_test
+repos:
+  - just_a_test
