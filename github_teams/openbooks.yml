@@ -4,4 +4,4 @@ members:
 name: openbooks
 permission: push
 repos:
-- test
+- openbooks
