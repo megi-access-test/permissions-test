@@ -6,3 +6,4 @@ permission: pull
 repos:
   - asdf
   - qwerty
+  - wsad
