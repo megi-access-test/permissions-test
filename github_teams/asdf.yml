@@ -1,0 +1,8 @@
+---
+members:
+  - magdalena.gumularz
+name: asdf
+permission: pull
+repos:
+  - asdf
+  - qwerty
