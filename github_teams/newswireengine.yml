@@ -1,8 +1,0 @@
----
-members:
-- al.capone
-- nick.fianculli
-name: newswireengine
-permission: push
-repos:
-- newswire_engine

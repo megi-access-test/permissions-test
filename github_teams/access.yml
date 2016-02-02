@@ -1,8 +1,0 @@
----
-members:
-- henryk.osmy
-- swiety.mikolaj
-name: access
-permission: push
-repos:
-- newswire_engine

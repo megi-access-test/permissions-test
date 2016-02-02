@@ -1,8 +1,0 @@
----
-members:
-- andrzej.tag
-- michal.puzon
-name: shard
-permission: push
-repos:
-- newswire_engine

@@ -1,8 +1,0 @@
----
-members:
-- adam.nowak
-- wolfgang.a.mozart
-name:
-permission: push
-repos:
-- newswire_engine
