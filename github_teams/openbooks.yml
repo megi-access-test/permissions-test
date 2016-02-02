@@ -1,6 +1,7 @@
 ---
 members:
 - rock.johnson
-name: 
-permission: 
-repos: []
+name:
+permission:
+repos:
+  - test

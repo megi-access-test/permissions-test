@@ -4,4 +4,5 @@ members:
 - wolfgang.a.mozart
 name:
 permission: push
-repos: []
+repos:
+  - test

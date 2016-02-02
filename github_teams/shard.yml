@@ -2,6 +2,7 @@
 members:
 - andrzej.tag
 - michal.puzon
-name: 
-permission: 
-repos: []
+name:
+permission:
+repos:
+  - test

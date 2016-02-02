@@ -2,6 +2,7 @@
 members:
 - al.capone
 - nick.fianculli
-name: 
-permission: 
-repos: []
+name:
+permission:
+repos:
+  - test
