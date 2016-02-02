@@ -5,4 +5,4 @@ members:
 name: access
 permission: push
 repos:
-- test_access
+- newswire_engine

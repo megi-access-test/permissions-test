@@ -5,4 +5,4 @@ members:
 name: shard
 permission: push
 repos:
-- test-access
+- newswire_engine
