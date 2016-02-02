@@ -2,6 +2,6 @@
 members:
 - henryk.osmy
 - swiety.mikolaj
-name: 
-permission: 
+name: access
+permission: push
 repos: []
