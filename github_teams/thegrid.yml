@@ -1,0 +1,7 @@
+---
+members:
+  - magdalena.gumularz
+name: thegrid
+permission: push
+repos:
+  - grid
