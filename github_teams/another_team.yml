@@ -1,7 +1,6 @@
 ---
 members:
   - magdalena.gumularz
-  - blazej.pankowiak
 name: another_team
 permission: push
 repos:
