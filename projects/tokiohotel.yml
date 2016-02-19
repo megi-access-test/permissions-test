@@ -6,6 +6,7 @@ google_groups: [tokiohotel]
 members:
 - magdalena.gumularz
 - piotr.jurczynski
+- maciej.czuchnowski
 project_email: tokiohotel@asdf.pl
 rollbar_teams: [tokio_hotel]
 toggl_teams: [tokiohotel]
