@@ -1,6 +1,7 @@
 ---
 members:
   - magdalena.gumularz
+  - maciej.czuchnowski
 name: harborpath
 permission: pull
 repos:
