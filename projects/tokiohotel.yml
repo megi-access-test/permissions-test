@@ -1,0 +1,12 @@
+---
+description: Asdf
+display_name: Tokiohotel app
+github_teams: [tokiohotel]
+google_groups: [tokiohotel]
+members:
+- magdalena.gumularz
+- piotr.jurczynski
+project_email: tokiohotel@asdf.pl
+rollbar_teams: [tokio_hotel]
+toggl_teams: [tokiohotel]
+slack_project_channel_name: project-tokiohotel
