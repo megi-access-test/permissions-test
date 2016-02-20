@@ -2,16 +2,16 @@
 description: Asdf
 display_name: Fun app
 github_teams:
-- fun_project
+  - fun_project
 google_groups:
-- fun_project
+  - fun_project
 members:
-- magdalena.gumularz
-- piotr.jurczynski
-- maciej.czuchnowski
+  - magdalena.gumularz
+  - piotr.jurczynski
+  - maciej.czuchnowski
 project_email: fun@asdf.pl
 rollbar_teams:
-  -fun_project
+  - fun_project
 toggl_teams:
-- fun_project
+  - fun_project
 slack_project_channel_name: project-fun
