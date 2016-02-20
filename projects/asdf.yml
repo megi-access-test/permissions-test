@@ -1,0 +1,13 @@
+---
+description: Asdf
+display_name: Asdf app
+github_teams: [asdf_app]
+google_groups: [asdf_app]
+members:
+- magdalena.gumularz
+- piotr.jurczynski
+- maciej.czuchnowski
+project_email: asdf@asdf.pl
+rollbar_teams: [asdf_team]
+toggl_teams: [asdf_app]
+slack_project_channel_name: asdf-fun
