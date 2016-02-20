@@ -1,0 +1,17 @@
+---
+display_name: POS CitiBike
+description:
+slack_project_channel_name: project-pos_citi_bike
+slack_client_channel_name:
+project_email: pos-citibike-team@netguru.pl
+people_project_name: poscitibike
+pivotal_project_name: POS CitiBike
+members:
+  - magdalena.gumularz
+github_teams:
+  - pos-citibike-android
+rollbar_teams:
+  - pos-citibike
+toggl_teams:
+  - POS_Citi_Bike
+
