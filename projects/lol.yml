@@ -1,0 +1,17 @@
+---
+description: Asdf
+display_name: Lol app
+github_teams:
+  - lol_project
+google_groups:
+  - lol_project
+members:
+  - magdalena.gumularz
+  - piotr.jurczynski
+  - maciej.czuchnowski
+project_email: lol@asdf.pl
+rollbar_teams:
+  - lol_project
+toggl_teams:
+  - lol_project
+slack_project_channel_name: lol-project
