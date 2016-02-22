@@ -1,0 +1,15 @@
+---
+description: Asdf
+display_name: Loosers app
+github_teams:
+  - loosers
+google_groups:
+  - loosers
+members:
+  - magdalena.gumularz
+project_email: looooosers@asdf.pl
+rollbar_teams:
+  - loosers
+toggl_teams:
+  - loosers
+slack_project_channel_name: project-fun
